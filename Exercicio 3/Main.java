@@ -1,5 +1,5 @@
 package Ex3;
-
+//Lucas Gomes e Rodrigo Ribeiro
 public class Main {
     public static void main(String[] args) {
         Student student = new Student("Sophia", "Rua Oito, 54", "CSc", 2, 5);
