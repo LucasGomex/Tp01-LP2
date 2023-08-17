@@ -1,4 +1,5 @@
 package Ex3;
+//Lucas Gomes e Rodrigo Ribeiro
 class Student extends Person {
     private String program;
     private int year;
