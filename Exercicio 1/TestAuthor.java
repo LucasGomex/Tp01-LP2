@@ -1,4 +1,5 @@
 package Ex1;
+//Lucas Gomes e Rodrigo Ribeiro
 public class TestAuthor {
     public static void main(String[] args) {
         Author author = new Author("Wellington Tuler", "tulermoraes@yahoo.com", 'm');
