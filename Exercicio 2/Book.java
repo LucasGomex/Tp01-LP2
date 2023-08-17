@@ -1,5 +1,5 @@
 package Ex2.classes;
-
+//Lucas Gomes e Rodrigo Ribeiro
 class Book {
      private String name;
     private Author[] authors; // Array de autores
