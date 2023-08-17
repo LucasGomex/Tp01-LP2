@@ -1,4 +1,5 @@
 package Ex3;
+//Lucas Gomes e Rodrigo Ribeiro
 class Staff extends Person {
     private String school;
     private double pay;
