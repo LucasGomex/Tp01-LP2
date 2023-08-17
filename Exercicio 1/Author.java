@@ -1,5 +1,5 @@
 package Ex1;
-//Vinnicius O. Rodrigues
+//Lucas Gomes e Rodrigo Ribeiro
     class Author {
         private String name;
         private String email;
